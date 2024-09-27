@@ -1,0 +1,1 @@
+query_id=AAFFvgVbAAAAAEW-BVvZMx5o&user=%7B%22id%22%3A1527103045%2C%22first_name%22%3A%22Ercan%22%2C%22last_name%22%3A%22S.%22%2C%22username%22%3A%22blackworldweb%22%2C%22language_code%22%3A%22tr%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727302362&hash=674e08342b0ef1c1f4800e6855e791ee054de5584f24e85779fc60997b108439
