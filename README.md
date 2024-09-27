@@ -59,7 +59,7 @@ socks5://user:pass@127.0.0.1:6969
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/holyrains/moonbixautoplay.git
+   git clone https://github.com/holyrains/MoonBix-Auto-HolyRains.git
    ```
 
 3. goto moonbixauto directory
@@ -97,7 +97,7 @@ socks5://user:pass@127.0.0.1:6969
 2. Clone this repository
    
    ```shell
-   git clone https://github.com/holyrains/moonbixautoplay.git
+   git clone https://github.com/holyrains/MoonBix-Auto-HolyRains.git
    ```
 
 3. goto moonbixauto directory
@@ -135,7 +135,7 @@ socks5://user:pass@127.0.0.1:6969
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/holyrains/moonbixautoplay.git
+   git clone https://github.com/holyrains/MoonBix-Auto-HolyRains.git
    ```
 
 3. goto moonbixauto directory
