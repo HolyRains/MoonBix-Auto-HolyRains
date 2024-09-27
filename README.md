@@ -64,7 +64,7 @@ socks5://user:pass@127.0.0.1:6969
 
 3. goto moonbixauto directory
    ```
-   cd moonbixautoplay
+   cd MoonBix-Auto-HolyRains
    ```
 
 4. install the require library
@@ -103,7 +103,7 @@ socks5://user:pass@127.0.0.1:6969
 3. goto moonbixauto directory
 
    ```shell
-   cd moonbixauto
+   cd MoonBix-Auto-HolyRains
    ```
 
 4. Install the require library
@@ -140,7 +140,7 @@ socks5://user:pass@127.0.0.1:6969
 
 3. goto moonbixauto directory
    ```
-   cd moonbixauto
+   cd MoonBix-Auto-HolyRains
    ```
 
 4. install the require library
